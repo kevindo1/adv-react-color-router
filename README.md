@@ -33,3 +33,4 @@ Your task is to add the code needed to make the buttons render the `<RGB />` com
 | Use `useParams` to grab the r,g,b values from URL | 4   |
 | Use the `Switch` and `Route` Components to render the `RGB` Component | 4   |
 | Successfully Deploy To Netlify | 2   |
+
